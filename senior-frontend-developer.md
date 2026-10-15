@@ -77,7 +77,7 @@ Interested candidates are welcome to submit their updated CV and LinkedIn profil
 
 Please mention the position title in your application.
 
-**Email:** [Insert recruitment email]
+**Email:** minhanh@aftdc.asia
 
 **Subject:** Senior Frontend Developer – UAE
 
